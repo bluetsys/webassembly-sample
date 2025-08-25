@@ -1,0 +1,1 @@
+emcc -s SINGLE_FILE=1 -lembind -o sample.js sample.cpp
