@@ -1,5 +1,6 @@
 ``` bash
 # emcc가 설치 되어 있는 상태에서 아래 실행
+# Emscripten SDK 섳치 라고 검색 하면 많이 나옴
 emcc -s SINGLE_FILE=1 -lembind -o sample.js sample.cpp
 ```
 
