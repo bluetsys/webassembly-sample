@@ -1,7 +1,6 @@
 ``` bash
-
+# emcc가 설치 되어 있는 상태에서 아래 실행
 emcc -s SINGLE_FILE=1 -lembind -o sample.js sample.cpp
-
 ```
 
 ## 📄 라이선스
